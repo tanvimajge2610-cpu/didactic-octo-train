@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html><body>
+
+<h2>basic HTML table</h2>
+
+<table border=1 width=80% cellpadding=3 cellspacing=3 bgcolor="gray"
+bordercolor=black>
+
+<tr><th>item no</th>
+    <th>item name</th>
+    < th>price</th>
+
+</tr>
+<tr> <td>1</td>
+     <td>pen</td>
+     <td>100</td>
+
+</tr>
+ <tr><td>2</td>
+     <td>pencil</td><td>10</td>
+
+</tr>
+
+<tr><td colspan=2></td><td>
+<b>total:140</b></td></tr>
+</table></body>
+
+</html>
